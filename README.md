@@ -4,3 +4,8 @@
   <img src="img/materializeLogo.png">
 <p>
 O site ficou assim:
+<p align="center">
+  <img src="img/imgRodape.png">
+  <img src="img/imgtenis.png">
+  <img src="img/imgSlideShow.png">
+<p>
