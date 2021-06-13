@@ -6,6 +6,15 @@
 O site ficou assim:
 <p align="center">
   <img src="img/imgSlideShow.png">
+  <p align="left">
+    <p>Slide show e nav-bar<p>
+  <p>
   <img src="img/imgtenis.png">
+  <p align="left">
+    <p>Produtos mais vendidos<p>
+  <p>
   <img src="img/imgRodape.png">
+  <p align="left">
+    <p>Rodapé<p>
+  <p>
 <p>
