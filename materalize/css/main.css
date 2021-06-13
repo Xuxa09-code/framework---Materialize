@@ -1,0 +1,41 @@
+.red {
+    /* background-image: url('../../img/caroseu1.png'); */
+}
+.amber {
+    /* background-image: url('../../img/caroseu2.png'); */
+}
+.green {
+    /* background-image: url('../../img/caroseu3.png'); */
+}
+.blue {
+    background-image: url('');
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+.material-icons {
+    font-size:40px;
+}
+footer ul li {
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.indicator-item{
+    color: black;
+}
+.carousel-item .containerMeu .row .col h1{
+    /* font-size: 50px; */
+    font-family: 'Dela Gothic One', cursive;
+    padding: 5px;
+}
+.containerMeu {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
